@@ -69,7 +69,7 @@ Here are some ideas to get you started:
 <br />
 <br />
 
-<!--Contact Section--> 
+<!--Contact Section
 <h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
 <div align="center">
   
@@ -97,7 +97,7 @@ Here are some ideas to get you started:
 <img src="./dev_to.png" width=50 height=50 alt="dev_kiran" style="margin-bottom: 5px;" />
 </a>
 </div>
-<br/>
+<br/>--> 
 
 <!--Github stats Table--> 
 <h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
