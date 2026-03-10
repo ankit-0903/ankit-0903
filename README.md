@@ -105,7 +105,7 @@
     <td width="50%">
       <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
       <p align="center">
-        <a href="https://github.com/Kiran1689">
+        <a href="https://github.com/ankit-0903">
           <img align="center" src="https://github-readme-stats.vercel.app/api?username=ankit-0903&count_private=true&show_icons=true&theme=nightowl&bg_color=0,0d122b,061f3d&title_color=f9c24b&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
         </a>
       </p>
@@ -114,7 +114,7 @@
     <td width="50%">
       <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
       <p align="center">
-        <a href="https://github.com/Kiran1689">
+        <a href="https://github.com/ankit-0903">
           <img align="center" src="https://streak-stats.demolab.com?user=ankit-0903&theme=nightowl&background=0,0d122b,061f3d&fire=f9c24b&ring=f9c24b&sideNums=ffffff&sideLabels=ffffff&dates=00cfff&currStreakNum=ffffff" alt="GitHub Streak Stats" />
         </a>
       </p>
