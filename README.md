@@ -36,7 +36,7 @@
   <li>🥇 Winner of PBL Open Day 2024, honored for innovative project execution, technical depth, and real-world impact.</li>
   <li>🏆 Finalist at top national-level hackathons including Smart India Hackathon 2023 & 2024 and Anveshana’25, recognized for developing impactful tech solutions in areas like agriculture, sustainability, and public welfare.</li>
   <li>📫 How to reach me: ankit.dev.cs@gmail.com</li>
-  <!-- 💻 Visit my [Portfolio](https://) for more details about me. -->
+  <li>💻 Visit my Portfolio https://ankit-kumar-gupta.vercel.app for more details about me.</li>
 </ul>
 
 <!--==================== Profile View Counter Badge ====================-->
